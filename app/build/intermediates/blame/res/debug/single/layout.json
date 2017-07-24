@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\PRAVEEN VERMA\\AndroidStudioProjects\\Note\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notes_row.xml",
+        "source": "C:\\Users\\PRAVEEN VERMA\\AndroidStudioProjects\\Note\\app\\src\\main\\res\\layout\\notes_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\PRAVEEN VERMA\\AndroidStudioProjects\\Note\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notelist.xml",
+        "source": "C:\\Users\\PRAVEEN VERMA\\AndroidStudioProjects\\Note\\app\\src\\main\\res\\layout\\notelist.xml"
+    },
+    {
+        "merged": "C:\\Users\\PRAVEEN VERMA\\AndroidStudioProjects\\Note\\app\\build\\intermediates\\res\\merged\\debug\\layout\\note_edit.xml",
+        "source": "C:\\Users\\PRAVEEN VERMA\\AndroidStudioProjects\\Note\\app\\src\\main\\res\\layout\\note_edit.xml"
+    }
+]

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\PRAVEEN VERMA\AndroidStudioProjects\Note\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\PRAVEEN VERMA\AndroidStudioProjects\Note\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_017931002f95634d37e95b3ece489b6d774f7610\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PRAVEEN VERMA\AndroidStudioProjects\Note\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="492911720f87eb58385f5e0df6ac58fecae833d0">
+        <dex dex="C:\Users\PRAVEEN VERMA\AndroidStudioProjects\Note\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_45f6219775329d274e8a5e503cf3d6174363e98a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="C:\Users\PRAVEEN VERMA\AndroidStudioProjects\Note\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-18.0.0_2205dc014a04cdd7fdcc3c6d3e2e8c6be689c2fc\classes.dex" />
+    </item>
+
+</items>

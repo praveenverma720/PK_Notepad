@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\PRAVEEN VERMA\\AndroidStudioProjects\\Note\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\create_note.png",
+        "source": "C:\\Users\\PRAVEEN VERMA\\AndroidStudioProjects\\Note\\app\\src\\main\\res\\drawable-hdpi\\create_note.png"
+    },
+    {
+        "merged": "C:\\Users\\PRAVEEN VERMA\\AndroidStudioProjects\\Note\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\notetop.png",
+        "source": "C:\\Users\\PRAVEEN VERMA\\AndroidStudioProjects\\Note\\app\\src\\main\\res\\drawable-hdpi\\notetop.png"
+    },
+    {
+        "merged": "C:\\Users\\PRAVEEN VERMA\\AndroidStudioProjects\\Note\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_menu_delete.png",
+        "source": "C:\\Users\\PRAVEEN VERMA\\AndroidStudioProjects\\Note\\app\\src\\main\\res\\drawable-hdpi\\ic_menu_delete.png"
+    },
+    {
+        "merged": "C:\\Users\\PRAVEEN VERMA\\AndroidStudioProjects\\Note\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\notelist.png",
+        "source": "C:\\Users\\PRAVEEN VERMA\\AndroidStudioProjects\\Note\\app\\src\\main\\res\\drawable-hdpi\\notelist.png"
+    },
+    {
+        "merged": "C:\\Users\\PRAVEEN VERMA\\AndroidStudioProjects\\Note\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_menu_save.png",
+        "source": "C:\\Users\\PRAVEEN VERMA\\AndroidStudioProjects\\Note\\app\\src\\main\\res\\drawable-hdpi\\ic_menu_save.png"
+    },
+    {
+        "merged": "C:\\Users\\PRAVEEN VERMA\\AndroidStudioProjects\\Note\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "C:\\Users\\PRAVEEN VERMA\\AndroidStudioProjects\\Note\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    }
+]

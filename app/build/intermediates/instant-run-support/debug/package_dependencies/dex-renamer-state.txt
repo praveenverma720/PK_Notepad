@@ -1,0 +1,4 @@
+#Sun Jul 23 16:16:24 IST 2017
+base.0=C\:\\Users\\PRAVEEN VERMA\\AndroidStudioProjects\\Note\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-v4-18.0.0_2205dc014a04cdd7fdcc3c6d3e2e8c6be689c2fc
+renamed.0=classes.dex
+file.0=C\:\\Users\\PRAVEEN VERMA\\AndroidStudioProjects\\Note\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-v4-18.0.0_2205dc014a04cdd7fdcc3c6d3e2e8c6be689c2fc\\classes.dex
